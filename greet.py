@@ -1,5 +1,5 @@
-# Create a variable for Adelaida
-name = "Adelaida"
+# Create a variable for Adela
+name = "Adela"
 
 # Write a function that counts down from 9 to 0
 def print_name_countdown(input_name):
