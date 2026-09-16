@@ -1,10 +1,7 @@
-# Create a variable for Adela
 name = "Adela"
 
-# Write a function that counts down from 9 to 0
-def print_name_countdown(input_name):
-    for i in range(9, -1, -1):
-        print(f"{input_name} {i}")
+def greet_user(input_name):
+    print(f"Greetings, {input_name}, welcome to the lab.")
 
 # Call the function
-print_name_countdown(name)
+greet_user(name)
